@@ -2,9 +2,9 @@
 
 This is a command-line Checkers game implemented in C using bitboards to represent the board.
 
-## ✅ How to Build
+##  How to Build
 
-### ✅ Option 1: Using Make (Linux/Mac or Windows with make installed)
+###  Option 1: Using Make (Linux/Mac or Windows with make installed)
 ```bash
 make
 ```
@@ -26,7 +26,7 @@ make clean
 
 ---
 
-## ✅ Gameplay Instructions
+## Gameplay Instructions
 
 When the game starts, the board is printed with rows and columns labeled.
 
@@ -49,7 +49,7 @@ Enter moves using 4 numbers:
 from_row from_col to_row to_col
 ```
 
-✅ Example:
+ Example:
 ```
 2 1 3 0
 ```
@@ -61,19 +61,19 @@ To quit the game:
 
 ---
 
-## ✅ Features Implemented
+##  Features Implemented
 
-✔ Bitboard-based board representation
-✔ Piece movement (diagonal)
-✔ Single captures (jumping opponent pieces)
-✔ King promotion when reaching the last row
-✔ Turn switching
-✔ Win detection when the opponent has no pieces
-✔ Board display after each move
+ Bitboard-based board representation, 
+ Piece movement (diagonal), 
+ Single captures (jumping opponent pieces), 
+ King promotion when reaching the last row, 
+ Turn switching, 
+ Win detection when the opponent has no pieces, 
+ Board display after each move, 
 
 ---
 
-## ✅ Sample Moves to Test
+##  Sample Moves to Test
 
 Use this sequence to test movement, capturing, and promotion:
 
@@ -93,7 +93,7 @@ Use this sequence to test movement, capturing, and promotion:
 
 ---
 
-## ✅ File List
+##  File List
 
 ```
 main.c
