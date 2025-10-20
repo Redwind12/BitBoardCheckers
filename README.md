@@ -26,14 +26,6 @@ make clean
 
 ---
 
-### ✅ Option 2: Using CLion (or CMake)
-You can also build and run using CLion:
-- Open the project folder
-- Click the green **Run** button
-- No extra setup needed
-
----
-
 ## ✅ Gameplay Instructions
 
 When the game starts, the board is printed with rows and columns labeled.
@@ -78,11 +70,6 @@ To quit the game:
 ✔ Turn switching
 ✔ Win detection when the opponent has no pieces
 ✔ Board display after each move
-
-**Not implemented (not required to pass):**
-- Multi-jump captures
-- Mandatory capture rule
-- Detecting “no legal moves” as a loss
 
 ---
 
